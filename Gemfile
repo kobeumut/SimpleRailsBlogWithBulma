@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-gem 'better_errors', '~> 2.4'
+gem 'better_errors', '~> 2.8'
 gem "bulma-rails", "~> 0.6.1"
 gem 'simple_form'
 group :development, :test do
